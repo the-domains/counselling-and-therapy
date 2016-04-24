@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Counselling and Therapy]]></title>
+        <description><![CDATA[Counselling and Therapy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 12:20:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Addiction - The Fallacy of Treating it as a Disease.]]></title>
+            <description><![CDATA[<article><h1>Addiction - The Fallacy of Treating it as a Disease.</h1><p>The debate about the nature of addiction has raged for decades. Is it disease? Is it a matter of choice? Is it a weakness of character? A moral failing? Today, the most widespread and prevalent view is that addiction is a chronic relapsing brain disease.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4d000adac223124194596a2384f1f7ed2bda8b5.jpg"></article>]]></description>
+            <link>https://www.recoveryfromaddictiononline.com/addiction-the-fa-it-as-a-disease/#more-1921</link>
+            <guid isPermaLink="false">bb0e3665-ed7c-4a04-bdc1-19a73c66e0d3</guid>
+            <pubDate>Sun, 24 Apr 2016 12:19:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
